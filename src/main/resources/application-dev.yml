@@ -1,0 +1,4 @@
+currency-service:
+  url: http://dev1.in28minutes.com
+  username: devusername
+  key: devkey

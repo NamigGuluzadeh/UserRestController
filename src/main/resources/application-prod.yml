@@ -1,0 +1,5 @@
+currency-service:
+    url: http://prod1.in28minutes.com
+    username: produsername
+    key: prodkey
+

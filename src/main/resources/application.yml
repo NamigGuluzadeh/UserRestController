@@ -1,0 +1,15 @@
+
+spring:
+  profiles:
+      active: dev
+  h2:
+    console:
+      enabled: true
+  datasource:
+    url: jdbc:h2:mem:testdb
+  jpa:
+    show-sql: true
+currency-service:
+  url: http://default1.in28minutes.com
+  username: defaultusername
+  key: defaultkey
